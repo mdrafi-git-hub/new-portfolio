@@ -54,7 +54,7 @@ export default function Hero() {
                         <button className="bg-blue-600 text-white px-6 py-3 rounded-xl font-semibold hover:bg-blue-700 transition hover:scale-105">
                             View Case Studies
                         </button>
-                        <a href="/SeniorDigitalMarketingResumeUpdated.pdf" download="Mahammad_Rafi_Resume.pdf">
+                        <a href="/RafiUpdatedSeniorDigitalMarketingResume.pdf" download="Mahammad_Rafi_Resume.pdf">
                             <button className="border border-gray-300 px-6 py-3 rounded-xl font-medium hover:border-blue-600 hover:text-blue-600 transition hover:scale-105 w-full sm:w-auto">
                                 Download CV
                             </button>

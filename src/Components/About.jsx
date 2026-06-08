@@ -144,7 +144,7 @@ export default function About() {
                         transition={{ delay: 0.5 }}
                         viewport={{ once: true }}
                     >
-                        <a href="/SeniorDigitalMarketingResumeUpdated.pdf" download="Mahammad_Rafi_Resume.pdf">
+                        <a href="/RafiUpdatedSeniorDigitalMarketingResume.pdf" download="Mahammad_Rafi_Resume.pdf">
                             <button className="bg-blue-600 text-white px-8 py-3 rounded-xl font-semibold hover:bg-blue-700 transition hover:scale-105">
                                 Download Resume
                             </button>
